@@ -1,0 +1,9 @@
+{
+  "name": "onevar_func_ptr",
+  "version": "0.1.0",
+  "repo": "hcnn/onevar_func_ptr",
+  "description": "function pointer typedef for Single-Variable Optimization",
+  "keywords": ["single-variable optimization", "one-variable optimization"],
+  "license": "MIT",
+  "src": ["onevar_func_ptr.h"]
+}
